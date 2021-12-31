@@ -36,7 +36,7 @@ I’m a Software QA Engineer living in Dhaka, Bangladesh. I spend my days with S
 
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="25" height="25"/> </a>
 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="mysql" width="25" height="25"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="file:///C:/Users/Tarik/OneDrive/Desktop/jmeter.svg" alt="mysql" width="25" height="25"/> </a>
 
 </p>
 <hr>
