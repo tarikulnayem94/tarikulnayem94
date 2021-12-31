@@ -26,11 +26,11 @@ I’m a Software QA Engineer living in Dhaka, Bangladesh. I spend my days with S
 <h3 align="left"><i>Languages and Tools :</i></h3> 
 
 <p>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="60" height="38"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="38"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="60" height="38"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"  alt="css3" width="60" height="38"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="60" height="38"/> </a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="70" height="45"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="70" height="45"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="70" height="45"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"  alt="css3" width="70" height="45"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" **width="75" height="45"/> </a>**
 
 
 
