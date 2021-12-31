@@ -33,6 +33,8 @@ I’m a Software QA Engineer living in Dhaka, Bangladesh. I spend my days with S
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="mysql" **width="80" height="55"/> &nbsp </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" **width="75" height="45"/> &nbsp </a>
 
+<tr>
+<tr>
 
 <img align="right" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="500" height="280"/> 
 </a>
