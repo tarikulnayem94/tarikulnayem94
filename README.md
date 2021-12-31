@@ -37,10 +37,6 @@ I’m a Software QA Engineer living in Dhaka, Bangladesh. I spend my days with S
 <img align="right" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="500" height="280"/> 
 </a>
 
-</p>
-<hr>
-<p> </p>
-
 <!---
 tarikulnayem94/tarikulnayem94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
