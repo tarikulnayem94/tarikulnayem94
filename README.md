@@ -16,6 +16,10 @@ I’m a Software QA Engineer living in Dhaka, Bangladesh. I spend my days with S
 
 <h3 align="left" ><i>Connect with me :</i></h3>
 
+<p style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png"> 📞</g-emoji> +8801712575851
+&nbsp  
+</p>
+
 
 
 
