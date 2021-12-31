@@ -36,7 +36,6 @@ I’m a Software QA Engineer living in Dhaka, Bangladesh. I spend my days with S
 <hr>
 <p> </p>
 
-
 <img align="right" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="500" height="280"/> 
 </a>
 
