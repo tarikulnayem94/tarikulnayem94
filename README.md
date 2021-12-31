@@ -8,7 +8,14 @@
 <h4>Software QA Engineer</h4>
 </blockquote>
 
+<p>
+I’m a Software QA Engineer living in Dhaka, Bangladesh. I spend my days with Signaficant hands-on technical exprience in the fast paced. Have experiecne with 
+Manual Testing, Automation Testing & also have good knowledge of Automation Testing Tools like Selenium Webdriver with TestNG Framework, and API testing 
+using Postman, Performance Testing using JMeter. Extremely tech savvy with the ability to learn new technology quickly & cope with numerous changes.
+</p>
+<hr>
 
+<h3 align="left" ><i>Connect with me :</i></h3>
 
 
 
