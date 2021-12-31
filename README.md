@@ -34,7 +34,7 @@ I’m a Software QA Engineer living in Dhaka, Bangladesh. I spend my days with S
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" **width="75" height="45"/> &nbsp </a>
 
 
-<img align="right" target="_blank" alt="_siam_shaeed" src="https://giphy.com/gifs/EgjM45jDJPJDPrRcfO?raw=true" width="500" height="280"/> 
+<img align="right" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="500" height="280"/> 
 </a>
 
 </p>
