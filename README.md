@@ -34,7 +34,7 @@
 <hr>
   
   
-<h3 align="left"><b> ₱𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 : </h3> 
+<h3 align="left"><b> 𝗣𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 : </h3> 
 <p>
  <br>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="100" height="70"/> &nbsp </a>&nbsp
