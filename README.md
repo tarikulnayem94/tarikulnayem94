@@ -45,9 +45,11 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="100" height="70"/> &nbsp </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"  alt="css3" width="100" height="70"/> &nbsp </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="mysql" width="160" height="90"/> &nbsp </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="180" height="70"/> &nbsp </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="200" height="70"/> &nbsp </a>
 <hr>
 </p>
+
+<img align="middle" target="_blank" alt="_siam_shaeed" src="https://i.gifer.com/bJk.gif" width="500" height="280"/> 
 <img align="middle" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="500" height="280"/> 
 </a>
 
