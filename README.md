@@ -1,4 +1,5 @@
-<h2 align="center">Hey there, I'm Tarikul Islam Nayem <img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="35"/>< img src = "https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"/></h2>
+<h2 align="center">Hey there, I'm Tarikul Islam Nayem <img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="35"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=E8217B&style=flat" alt="nayem"  height="30"/>
