@@ -21,6 +21,7 @@
 <hr>
 <h3 align="left"><b> 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕋𝕖𝕤𝕥𝕚𝕟𝕘 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕋𝕠𝕠𝕝𝕤 : </h3> 
 <p>
+<br>
 <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/selenium.png" alt="Postman" width="180" height="80"/>&nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="100" height="80"/> &nbsp </a>&nbsp
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="160" height="80"/></a>&nbsp
@@ -35,6 +36,7 @@
   
 <h3 align="left"><b> ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 : </h3> 
 <p>
+ <br>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="100" height="70"/> &nbsp </a>&nbsp
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="100" height="70"/> &nbsp </a>&nbsp
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="100" height="70"/> &nbsp </a>&nbsp
