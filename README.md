@@ -4,7 +4,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=E8217B&style=flat" alt="nayem"  height="30"/>
 </p>
-<hr>
 
 <blockquote>
 <h3>Software QA Engineer</h3>
