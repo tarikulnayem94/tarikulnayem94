@@ -1,4 +1,3 @@
-<hr>
 <h3 align="center">Hey there, I'm Tarikul Islam Nayem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/></h3>
 
 <p align="center">
@@ -26,7 +25,6 @@
 <hr>
 <h3 align="left"><b> 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕋𝕖𝕤𝕥𝕚𝕟𝕘 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕋𝕠𝕠𝕝𝕤 : </h3> 
 <p>
-<hr>
 <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/selenium.png" alt="Postman" width="180" height="80"/>
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="100" height="80"/> &nbsp </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="160" height="80"/></a>
@@ -40,7 +38,6 @@
   
   
 <h3 align="left"><b> ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 : </h3> 
-<hr>
 <p>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="100" height="70"/> &nbsp </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="100" height="70"/> &nbsp </a>
