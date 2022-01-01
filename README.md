@@ -47,7 +47,7 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="180" height="70"/> &nbsp </a>
 <hr>
 </p>
-<img align="right" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="500" height="280"/> 
+<img align="middle" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="500" height="280"/> 
 </a>
 
 <!---
