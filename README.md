@@ -49,15 +49,11 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="200" height="70"/> &nbsp </a>
 <hr>
 </p>
-<hr>
-<p>
- 
+
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="450" height="280"/> 
 <img align="right" target="_blank" alt="_nayem" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="450" height="280"/> 
 </a>
-</p>
-<hr>
- 
+
 <!---
 tarikulnayem94/tarikulnayem94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
