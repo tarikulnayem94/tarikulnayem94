@@ -6,7 +6,7 @@
 <hr>
 
 <blockquote>
-<h4>Software QA Engineer</h4>
+<h3>Software QA Engineer</h3>
 </blockquote>
 
 <p>
@@ -15,7 +15,7 @@
 </p>
 <hr>
 
-<h3 align="left" ><b> Connect with me : </h3>
+<h2 align="left" ><b> Connect with me : </h2>
 
 <p style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png"> 📞</g-emoji> +8801712575851
 &nbsp  
