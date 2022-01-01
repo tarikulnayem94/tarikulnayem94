@@ -50,7 +50,7 @@
 </p>
 
 <img align="left" target="_blank" alt="_siam_shaeed" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="450" height="280"/> 
-<img align="right" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="450" height="280"/> 
+<img align="right" target="_blank" alt="_siam_shaeed" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="450" height="280"/> 
 </a>
 
 <!---
