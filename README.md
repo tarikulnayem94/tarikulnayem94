@@ -28,9 +28,9 @@ I’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲�
 <p>
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="70" height="45"/> &nbsp </a>
   
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="80" height="55"/> &nbsp </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="80" height="55"/></a>
   
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/jmeter.svg" alt="Postman" width="80" height="55"/> &nbsp </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/jmeter.svg" alt="Postman" width="100" height="75"/></a>
 
 </p>
 <hr>
