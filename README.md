@@ -30,7 +30,7 @@ I’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲�
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="160" height="80"/></a>
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/jmeter%20(2).png" alt="Postman" width="170" height="60"/>
  </a>
- <a href="https://testng.org/doc/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/TESTNG.png" alt="Postman" width="140" height="60"/>
+ <a href="https://testng.org/doc/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/TESTNG.png" alt="Postman" width="170" height="50"/>
  </a>
 
 </p>
