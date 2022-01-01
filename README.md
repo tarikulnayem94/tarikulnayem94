@@ -49,8 +49,8 @@
 <hr>
 </p>
 
-<img align="middle" target="_blank" alt="_siam_shaeed" src="https://i.gifer.com/bJk.gif" width="500" height="280"/> 
-<img align="middle" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="500" height="280"/> 
+<img align="left" target="_blank" alt="_siam_shaeed" src="https://i.gifer.com/bJk.gif" width="500" height="280"/> 
+<img align="right" target="_blank" alt="_siam_shaeed" src="https://i.giphy.com/EgjM45jDJPJDPrRcfO.gif" width="500" height="280"/> 
 </a>
 
 <!---
