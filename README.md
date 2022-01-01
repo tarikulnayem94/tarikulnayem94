@@ -28,8 +28,8 @@ I’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲�
 <p>
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="75" height="55"/> &nbsp </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="115" height="55"/></a>
-<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/jmeter%20(2).png" alt="Postman" width="150" height="60"/>
-<a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/selenium.png" alt="Postman" width="160" height="70"/>
+<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/jmeter%20(2).png" alt="Postman" width="170" height="60"/>
+<a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/selenium.png" alt="Postman" width="180" height="80"/>
  </a>
 
 </p>
