@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm Tarikul Islam Nayem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/></h2>
+<h2 align="center">Hey there, I'm Tarikul Islam Nayem <img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="35"/></h2>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=E8217B&style=flat" alt="nayem"  height="30"/>
@@ -52,7 +52,9 @@
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="450" height="280"/> 
 <img align="right" target="_blank" alt="_nayem" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="450" height="280"/> 
 </a>
-
+ 
+<hr>
+ 
 <!---
 tarikulnayem94/tarikulnayem94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
