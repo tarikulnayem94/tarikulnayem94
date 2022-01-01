@@ -9,7 +9,7 @@
 </blockquote>
 
 <p>
-I’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 living in Dhaka, Bangladesh. I spend my days with Significant hands-on technical experience in the fast-paced. Have experience with Manual Testing, Automation Testing & also have good knowledge of Automation Testing Tools like Selenium Webdriver with TestNG Framework, and API testing using Postman, Performance Testing using JMeter. Knowledge in different types of Testing such as: Functional, User Acceptance, Regression, Smoke, Performance, Usability, Verification, & UI Testing. Extremely tech-savvy with the ability to learn new technology quickly & cope with numerous changes. 
+I’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 living in 𝕯𝖍𝖆𝖐𝖆, 𝕭𝖆𝖓𝖌𝖑𝖆𝖉𝖊𝖘𝖍. I spend my days with Significant hands-on technical experience in the fast-paced. Have experience with 𝗠𝗮𝗻𝘂𝗮𝗹 𝗧𝗲𝘀𝘁𝗶𝗻𝗴, 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 & also have good knowledge of Automation Testing Tools like 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗱𝗿𝗶𝘃𝗲𝗿 with 𝗧𝗲𝘀𝘁𝗡𝗚 Framework, and 𝗔𝗣𝗜  testing using 𝗣𝗼𝘀𝘁𝗺𝗮𝗻, Performance Testing using 𝗝𝗠𝗲𝘁𝗲𝗿. Knowledge in different types of Testing 𝘀𝘂𝗰𝗵 𝗮𝘀: Functional, User Acceptance, Regression, Smoke, Performance, Usability, Verification, & UI Testing. Extremely tech-savvy with the ability to learn new technology quickly & cope with numerous changes. 
 
 </p>
 <hr>
@@ -23,7 +23,16 @@ I’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲�
 <a href="https://www.linkedin.com/in/nayem94" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" style="max-width:100%;"></a>
 <hr>
 
-<h3 align="left"><i>Languages and Tools :</i></h3> 
+<h3 align="left"> 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕋𝕖𝕤𝕥𝕚𝕟𝕘 𝕋𝕠𝕠𝕝𝕤 : </h3> 
+
+<p>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="70" height="45"/> &nbsp </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="mysql" width="70" height="45"/> &nbsp </a>
+</p>
+<hr>
+  
+  
+<h3 align="left"> 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤 : </h3> 
 
 <p>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="70" height="45"/> &nbsp </a>
