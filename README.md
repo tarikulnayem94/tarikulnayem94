@@ -49,6 +49,7 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="200" height="70"/> &nbsp </a>
 <hr>
 </p>
+<hr>
 <p>
  
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="450" height="280"/> 
