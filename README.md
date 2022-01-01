@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm Tarikul Islam Nayem <img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="35"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1616313730/22670/hey.gif?1616313730" width="30"/> there, I'm Tarikul Islam Nayem <img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="35"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 
 
 <p align="center">
