@@ -26,8 +26,8 @@ I’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲�
 <h3 align="left"> 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕋𝕖𝕤𝕥𝕚𝕟𝕘 𝕋𝕠𝕠𝕝𝕤 : </h3> 
 
 <p>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="70" height="45"/> &nbsp </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="mysql" width="70" height="45"/> &nbsp </a>
+<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="70" height="45"/> &nbsp </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="80" height="55"/> &nbsp </a>
 </p>
 <hr>
   
