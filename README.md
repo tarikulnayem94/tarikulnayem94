@@ -1,4 +1,4 @@
-<h2 align="center">нєу thєrє, 𝐈'𝐦 Tarikul Islam<p style="color:blue;"> ПΛYΣM </p><img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="35"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
+<h2 align="center">нєу thєrє, 𝐈'𝐦 Tarikul Islam<span data-color="red"> ПΛYΣM </span><img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="35"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 
 
 <p align="center">
