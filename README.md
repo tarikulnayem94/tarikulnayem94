@@ -1,9 +1,8 @@
 
-<p align="center">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=E8217B&style=flat" alt="nayem"  height="40"/>
-</p>
-
 <h2 align="center">нєу thєrє, 𝐈'𝐦 Tarikul Islam `ПΛYΣM` <img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="35"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
+</p>
 
 <blockquote>
 <h3>Software QA Engineer</h3>
