@@ -32,13 +32,13 @@
 <h3 align="left"><b> 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕋𝕖𝕤𝕥𝕚𝕟𝕘 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕋𝕠𝕠𝕝𝕤 : </h3> 
 <p>
 <br>
-<a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/selenium.png" alt="Postman" width="180" height="80"/>&nbsp
+<!-- <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/selenium.png" alt="Postman" width="180" height="80"/>&nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://logowiki.net/uploads/logo/j/jmeter.svg" alt="Apache" width="100" height="80"/> &nbsp </a>&nbsp
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="160" height="80"/></a>&nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="file:///C:/Users/Tarik/OneDrive/Desktop/jmeter.svg" alt="Postman" width="170" height="60"/>&nbsp
  </a>
  <a href="https://testng.org/doc/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/TESTNG.png" alt="Postman" width="170" height="50"/>
- </a>&nbsp
+ </a>&nbsp -->
 
 </p>
  <hr>
