@@ -43,7 +43,7 @@
 </p>
  <hr>
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="260"/> 
-<img align="right" target="_blank" alt="_nayem" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="400" height="260"/> 
+<img align="right" target="_blank" alt="_nayem" src="https://media.giphy.com/media/J67qxGAJvwFOjxAqPM/giphy.gif" width="400" height="260"/> 
 </a>
 
 <!---
