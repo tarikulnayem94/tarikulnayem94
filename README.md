@@ -19,6 +19,16 @@
 <h1 align="left"><a href="mailto:tarikul.ewu@gmail.com?subject=Github%20Visitor&body=Hi%20nayem,..."><img src="http://img.shields.io/badge/-@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" height = "28" alt="tarikul.ewu@gmail.com"></a>
 <a href="https://www.linkedin.com/in/nayem94" target="_blank" rel="nofollow"> <img src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height = "28"></a>
  
+<h3 align="left"><b> 𝐏𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 : </h3> 
+<p>
+ <br>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="60" height="42"/> &nbsp </a>&nbsp
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="42"/> &nbsp </a>&nbsp
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="60" height="42"/> &nbsp </a>&nbsp</a>&nbsp
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"  alt="css3" width="60" height="42"/> &nbsp </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="120" height="42"/>  </a>&nbsp
+</p>
+ 
 <h3 align="left"><b> 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕋𝕖𝕤𝕥𝕚𝕟𝕘 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕋𝕠𝕠𝕝𝕤 : </h3> 
 <p>
 <br>
@@ -31,20 +41,7 @@
  </a>&nbsp
 
 </p>
-<hr>
-  
-  
-<h3 align="left"><b> 𝐏𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 : </h3> 
-<p>
- <br>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="60" height="42"/> &nbsp </a>&nbsp
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="42"/> &nbsp </a>&nbsp
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="60" height="42"/> &nbsp </a>&nbsp</a>&nbsp
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"  alt="css3" width="60" height="42"/> &nbsp </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="120" height="42"/>  </a>&nbsp
-<hr>
-</p>
-
+ <hr>
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" height="260"/> 
 <img align="right" target="_blank" alt="_nayem" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="400" height="260"/> 
 </a>
