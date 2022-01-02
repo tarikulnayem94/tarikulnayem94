@@ -28,7 +28,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"  alt="css3" width="60" height="42"/> &nbsp </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="96" height="35"/>  </a>&nbsp
 </p>
-<hr>
 <!-- 
 <h3 align="left"><b> 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕋𝕖𝕤𝕥𝕚𝕟𝕘 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕋𝕠𝕠𝕝𝕤 : </h3> 
 <p>
