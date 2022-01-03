@@ -35,7 +35,7 @@
 <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/selenium.png" alt="Postman" width="180" height="80"/> &nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="70" height="42"/> &nbsp </a> &nbsp
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="70" height="42"/> &nbsp </a> &nbsp
-<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/Apache_JMeter.png" alt="Postman" width="120" height="42"/> &nbsp </a> &nbsp
+<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/Apache_JMeter.png" alt="Postman" width="135" height="42"/> &nbsp </a> &nbsp
 <a href="https://testng.org/doc/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/TESTNG.png" alt="Postman" width="170" height="50"/>
 </a> &nbsp 
 
