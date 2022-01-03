@@ -34,7 +34,7 @@
 <br>
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" alt="Postman" width="150" height="50"/> &nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="70" height="42"/> &nbsp </a> &nbsp
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="46"/> &nbsp </a> &nbsp
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> &nbsp </a> &nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="Postman" width="135" height="70"/> &nbsp </a> &nbsp
 <a href="https://testng.org/doc/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/TESTNG.png" alt="Postman" width="170" height="50"/>
 </a> &nbsp 
