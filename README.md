@@ -32,7 +32,7 @@
 <h3 align="left"><b> 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕋𝕖𝕤𝕥𝕚𝕟𝕘 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕋𝕠𝕠𝕝𝕤 : </h3> 
 <p>
 <br>
-<a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" alt="Postman" width="130" height="50"/> &nbsp
+<a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" alt="Postman" width="150" height="50"/> &nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="70" height="42"/> &nbsp </a> &nbsp
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="70" height="42"/> &nbsp </a> &nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/Apache_JMeter.png" alt="Postman" width="135" height="42"/> &nbsp </a> &nbsp
