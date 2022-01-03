@@ -25,22 +25,22 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="42"/> &nbsp </a>&nbsp
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="60" height="42"/> &nbsp </a>&nbsp</a>&nbsp
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"  alt="css3" width="60" height="42"/> &nbsp </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="96" height="35"/>  </a>&nbsp
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="96" height="35"/>  </a>
+&nbsp
 </p>
-<!-- 
+ 
 <h3 align="left"><b> 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕋𝕖𝕤𝕥𝕚𝕟𝕘 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕋𝕠𝕠𝕝𝕤 : </h3> 
 <p>
 <br>
-<a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/selenium.png" alt="Postman" width="180" height="80"/>&nbsp
-<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://logowiki.net/uploads/logo/j/jmeter.svg" alt="Apache" width="100" height="80"/> &nbsp </a>&nbsp
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="160" height="80"/></a>&nbsp
-<a href="https://jmeter.apache.org/" target="_blank"> <img src="file:///C:/Users/Tarik/OneDrive/Desktop/jmeter.svg" alt="Postman" width="170" height="60"/>&nbsp
- </a>
- <a href="https://testng.org/doc/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/TESTNG.png" alt="Postman" width="170" height="50"/>
- </a>&nbsp -->
+<a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/selenium.png" alt="Postman" width="180" height="80"/> &nbsp
+<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="70" height="42"/> &nbsp </a> &nbsp
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="70" height="42"/> &nbsp </a> &nbsp
+<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/Apache_JMeter.png" alt="Postman" width="70" height="42"/> &nbsp </a> &nbsp
+<a href="https://testng.org/doc/" target="_blank"> <img src="https://github.com/tarikulnayem94/Diagram.io/blob/main/TESTNG.png" alt="Postman" width="170" height="50"/>
+</a> &nbsp 
 
 </p>
- <hr>
+<hr>
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="260"/> 
 <img align="right" target="_blank" alt="_nayem" src="https://media.giphy.com/media/J67qxGAJvwFOjxAqPM/giphy.gif" width="400" height="260"/> 
 </a>
