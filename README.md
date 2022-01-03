@@ -37,7 +37,7 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> &nbsp </a> &nbsp
 <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="sw" width="120" height="50"/> &nbsp </a> &nbsp
 <a href="https://www.katalon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg" alt="katalon_studio" width="100" height="40"/></a> &nbsp 
-<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="120" height="70"/>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="80" height="45"/>
 </a> &nbsp 
 
 </p>
