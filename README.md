@@ -1,4 +1,14 @@
 
+<html>
+<head>
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+</head>
+<body>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=FF1919&style=flat" alt="nayem"  height="22"/><p align="left"><h2>нєу thєrє, 𝐈'𝐦 Tarikul Islam `ПΛYΣM` &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="50"/>&nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2> 
 </p>
 
@@ -6,7 +16,7 @@
 
 <hr>
 <p>
-<div>𝗜’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 living in 𝕯𝖍𝖆𝖐𝖆, 𝕭𝖆𝖓𝖌𝖑𝖆𝖉𝖊𝖘𝖍. I spend my days with Significant hands-on technical experience in the fast-paced. I have experience with Manual Testing, Automation Testing & also have good knowledge of Automation Testing Tools like 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗱𝗿𝗶𝘃𝗲𝗿 with 𝗧𝗲𝘀𝘁𝗡𝗚 Framework, and 𝗔𝗣𝗜 testing using 𝗣𝗼𝘀𝘁𝗺𝗮𝗻, Performance Testing using 𝗝𝗠𝗲𝘁𝗲𝗿. Knowledge in different types of Testing such as: Functional, User Acceptance, Regression, Smoke, Performance, Usability, Verification, & UI Testing. Extremely tech-savvy with the ability to learn new technology quickly & cope with numerous changes. </div>
+<div>𝗜’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 living in 𝕯𝖍𝖆𝖐𝖆, 𝕭𝖆𝖓𝖌𝖑𝖆𝖉𝖊𝖘𝖍. I spend my days with Significant hands-on technical experience in the fast-paced. I have experience with Manual Testing, Automation Testing & also have good knowledge of Automation Testing Tools like 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗱𝗿𝗶𝘃𝗲𝗿 with 𝗧𝗲𝘀𝘁𝗡𝗚 Framework, and 𝗔𝗣𝗜 testing using 𝗣𝗼𝘀𝘁𝗺𝗮𝗻, Performance Testing using 𝗝𝗠𝗲𝘁𝗲𝗿. Knowledge in different types of Testing such as: Functional, User Acceptance, Regression, Smoke, Performance, Usability, Verification, & UI Testing. Extremely tech-savvy with the ability to learn new technology quickly & cope with numerous changes.</div>
 </p> 
 <h3 align="left" ><b> Connect with me : </h3>
 
@@ -44,12 +54,6 @@
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="260"/> 
 <img align="right" target="_blank" alt="_nayem" src="https://media.giphy.com/media/J67qxGAJvwFOjxAqPM/giphy.gif" width="400" height="260"/> 
 </a>
-<style>
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
 <!---
 tarikulnayem94/tarikulnayem94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
