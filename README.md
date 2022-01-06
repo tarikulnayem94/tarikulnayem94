@@ -1,14 +1,5 @@
 
-<html>
-<head>
-<style>
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
-</head>
-<body>
+
 <p align="right"><img src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=FF1919&style=flat" alt="nayem"  height="22"/><p align="left"><h2>нєу thєrє, 𝐈'𝐦 Tarikul Islam `ПΛYΣM` &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="50"/>&nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2> 
 </p>
 
@@ -58,5 +49,5 @@ div {
 tarikulnayem94/tarikulnayem94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  </body>
-</html>
+<hr>
+  <hr>
