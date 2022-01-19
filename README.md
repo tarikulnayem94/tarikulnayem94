@@ -6,7 +6,7 @@
 <h3>Software QA Engineer</h3>
 
 <hr>
-<p><h4
+<p><h4 align="left">
 𝗜’m a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 living in 𝕯𝖍𝖆𝖐𝖆, 𝕭𝖆𝖓𝖌𝖑𝖆𝖉𝖊𝖘𝖍. I spend my days with Significant hands-on technical experience in the fast-paced. I have experience with Manual Testing, Automation Testing & also have good knowledge of Automation Testing Tools like 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗱𝗿𝗶𝘃𝗲𝗿 with 𝗧𝗲𝘀𝘁𝗡𝗚 Framework, and 𝗔𝗣𝗜 testing using 𝗣𝗼𝘀𝘁𝗺𝗮𝗻, Performance Testing using 𝗝𝗠𝗲𝘁𝗲𝗿. Knowledge in different types of Testing such as: Functional, User Acceptance, Regression, Smoke, Performance, Usability, Verification, & UI Testing. Extremely tech-savvy with the ability to learn new technology quickly & cope with numerous changes.</h4>
 
 <h3 align="left" ><b> Connect with me : </h3>
