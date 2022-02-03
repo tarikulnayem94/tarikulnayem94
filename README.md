@@ -20,9 +20,8 @@
 <br>
  
 <h2 align="left"><b>𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 :</h2>
-<br> 
 <p>
-
+<br> 
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="70" height="42"/> &nbsp </a>&nbsp
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="42"/> &nbsp </a>&nbsp
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="60" height="42"/> &nbsp </a>&nbsp</a>&nbsp
@@ -33,10 +32,10 @@
  
 <hr>
 <h2 align="left"><b>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚃𝚎𝚜𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜 :</h2>
-<br>
+
 <p>
 <br>
-<br>
+
 <a href="https://github.com/tarikulnayem94/Selenium-with-Java" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="sw" width="120" height="50"/></a> &nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="110" height="38"/></a> &nbsp
 <a href="https://www.postman.com/nayem94/workspace/nayem-postman/overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="90" height="48"/> </a> 
