@@ -20,13 +20,13 @@
 &nbsp  
 </p>
 
-<h1 align="left"><a href="mailto:tarikul.ewu@gmail.com?subject=Github%20Visitor&body=Hi%20nayem,..."><img src="http://img.shields.io/badge/-@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" height = "28" alt="tarikul.ewu@gmail.com"></a>
+<!-- <h1 align="left"><a href="mailto:tarikul.ewu@gmail.com?subject=Github%20Visitor&body=Hi%20nayem,..."><img src="http://img.shields.io/badge/-@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" height = "28" alt="tarikul.ewu@gmail.com"></a>
 <a href="https://www.linkedin.com/in/nayem94" target="_blank" rel="nofollow"> <img src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://raw.githubusercontent.com/tarikulnayem94/Diagram.io/main/linkedin-logo.svg" height = "28"></a>
-<br>
+<br> -->
  
 <h2 align="left"><b>𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 :</h2>
 <p>
-<br> 
+<br> <br> 
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="70" height="42"/> &nbsp </a>&nbsp
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="42"/> &nbsp </a>&nbsp
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="60" height="42"/> &nbsp </a>&nbsp</a>&nbsp
@@ -34,10 +34,10 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="mysql" width="105" height="35"/>  </a>
 &nbsp
 </p>
- 
+ <br> 
 <hr>
 <h2 align="left"><b>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚃𝚎𝚜𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜 :</h2>
-
+<br> 
 <p>
 <br>
 <a href="https://github.com/tarikulnayem94/Selenium-with-Java" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="sw" width="120" height="50"/></a> &nbsp
@@ -45,7 +45,7 @@
 <a href="https://www.postman.com/nayem94/workspace/nayem-postman/overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> </a> 
 <a href="https://www.katalon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg" alt="katalon_studio" width="65" height="40"/></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
-
+<br> 
 <!-- </p>
 <hr>
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="260"/>
