@@ -14,9 +14,9 @@
 <p>
 𝗜’𝗺 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝔸 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ͏l͏i͏v͏i͏n͏g ͏i͏n 𝕯𝖍𝖆𝖐𝖆, 𝕭𝖆𝖓𝖌𝖑𝖆𝖉𝖊𝖘𝖍. ͏I ͏s͏p͏e͏n͏d ͏m͏y ͏d͏a͏y͏s ͏w͏i͏t͏h ͏s͏i͏g͏n͏i͏f͏i͏c͏a͏n͏t ͏h͏a͏n͏d͏s-͏o͏n ͏t͏e͏c͏h͏n͏i͏c͏a͏l ͏e͏x͏p͏e͏r͏i͏e͏n͏c͏e ͏i͏n ͏t͏h͏e ͏f͏a͏s͏t ͏p͏a͏c͏e͏d. ͏I ͏h͏a͏v͏e ͏e͏x͏p͏e͏r͏i͏e͏n͏c͏e ͏w͏i͏t͏h 𝗠𝗮𝗻𝘂𝗮𝗹𝗧𝗲𝘀𝘁𝗶𝗻𝗴, 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 & ͏a͏l͏s͏o ͏h͏a͏v͏e ͏g͏o͏o͏d ͏k͏n͏o͏w͏l͏a͏d͏g͏e ͏o͏f 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 ͏t͏o͏o͏l͏s ͏l͏i͏k͏e 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗱𝗿𝗶𝘃𝗲𝗿 ͏w͏i͏t͏h 𝗧𝗲𝘀𝘁𝗡𝗚 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸, & 𝗔𝗣𝗜 𝘁𝗲𝘀𝘁𝗶𝗻𝗴 ͏u͏s͏i͏n͏g 𝗣𝗼𝘀𝘁𝗺𝗮𝗻, 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 ͏u͏s͏i͏n͏g 𝗝𝗠𝗲𝘁𝗲𝗿, Mobile Application testing using 𝔸𝕡𝕡𝕚𝕦𝕞. ͏Kn͏o͏w͏l͏a͏d͏g͏e ͏i͏n ͏d͏i͏f͏f͏e͏r͏e͏n͏t ͏t͏y͏p͏e͏s ͏o͏f ͏t͏e͏s͏t͏i͏n͏g ͏s͏u͏c͏h ͏a͏s: 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹, 𝗨𝘀𝗲𝗿 𝗔𝗰𝗰𝗲𝗽𝘁𝗮𝗻𝗰𝗲, 𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻, 𝗦𝗺𝗼𝗸𝗲, 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲, 𝗨𝘀𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗩𝗲𝗿𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻, 𝗟𝗼𝗮𝗱, 𝗦𝘁𝗿𝗲𝘀𝘀 & 𝗨𝗜 𝗧𝗲𝘀𝘁𝗶𝗻𝗴. ͏Ex͏t͏r͏e͏m͏e͏l͏y ͏t͏e͏c͏h-͏s͏a͏v͏v͏y ͏w͏i͏t͏h ͏t͏h͏e ͏a͏b͏i͏l͏i͏t͏y ͏t͏o ͏l͏e͏a͏r͏n ͏n͏e͏w ͏t͏e͏c͏h͏n͏o͏l͏o͏g͏y ͏q͏u͏i͏c͏k͏l͏y & ͏c͏o͏p͏e ͏w͏i͏t͏h ͏n͏u͏m͏e͏r͏o͏u͏s ͏c͏h͏a͏n͏g͏e͏s.🎓 I am 𝕊𝕥𝕦𝕕𝕚𝕖𝕕 𝕒𝕥 <a href="https://www.ewubd.edu/" target="_blank">𝗘𝗮𝘀𝘁 𝗪𝗲𝘀𝘁 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆.
 
-<h3 align="left" ><b> Connect with me : <p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">  📞 </g-emoji> +8801712575851 </h3> 
+<h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">  📞 </g-emoji>Contact with me +8801712575851 </h3> 
 </p>
-
+&nbsp
 <!-- <h1 align="left"><a href="mailto:tarikul.ewu@gmail.com?subject=Github%20Visitor&body=Hi%20nayem,..."><img src="http://img.shields.io/badge/-@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" height = "28" alt="tarikul.ewu@gmail.com"></a>
 <a href="https://www.linkedin.com/in/nayem94" target="_blank" rel="nofollow"> <img src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://raw.githubusercontent.com/tarikulnayem94/Diagram.io/main/linkedin-logo.svg" height = "28"></a>
 <br> -->
