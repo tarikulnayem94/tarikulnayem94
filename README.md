@@ -42,15 +42,15 @@
 <br>
 <a href="https://github.com/tarikulnayem94/Selenium-with-Java" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="sw" width="120" height="50"/></a> &nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="110" height="38"/></a> &nbsp
-<a href="https://www.postman.com/nayem94/workspace/nayem-postman/overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" width="90" height="48"/> </a> 
+<a href="https://www.postman.com/nayem94/workspace/nayem-postman/overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="90" height="90"/> </a> 
 <a href="https://www.katalon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg" alt="katalon_studio" width="65" height="33"/></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="38" height="38"/></a>
 
-</p>
+<!-- </p>
 <hr>
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="260"/>
 <img align="right" target="_blank" alt="_nayem" src="https://media.giphy.com/media/J67qxGAJvwFOjxAqPM/giphy.gif" width="400" height="260"/>
-</a>
+</a> -->
 <!---
 tarikulnayem94/tarikulnayem94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  ПΛYΣM
