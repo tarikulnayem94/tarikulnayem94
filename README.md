@@ -16,9 +16,9 @@
 
 <h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">  📞 </g-emoji>Contact with мє: +8801712575851 </h3> 
 </p>
-&nbsp
-<p>
 <br> 
+<p>
+<br>
  
 <!-- <h1 align="left"><a href="mailto:tarikul.ewu@gmail.com?subject=Github%20Visitor&body=Hi%20nayem,..."><img src="http://img.shields.io/badge/-@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" height = "28" alt="tarikul.ewu@gmail.com"></a>
 <a href="https://www.linkedin.com/in/nayem94" target="_blank" rel="nofollow"> <img src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://raw.githubusercontent.com/tarikulnayem94/Diagram.io/main/linkedin-logo.svg" height = "28"></a>
