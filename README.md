@@ -39,9 +39,9 @@
 <br>
 <a href="https://github.com/tarikulnayem94/Selenium-with-Java" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="sw" width="120" height="50"/></a> &nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="jmeter" width="110" height="38"/></a> &nbsp
-<a href="https://www.postman.com/nayem94/workspace/nayem-postman/overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> </a> 
+<a href="https://www.postman.com/nayem94/workspace/nayem-postman/overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="38" height="38"/> </a> 
 <a href="https://www.katalon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg" alt="katalon_studio" width="65" height="40"/></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="38" height="38" /> </a>
 <!-- </p>
 <hr>
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="260"/>
