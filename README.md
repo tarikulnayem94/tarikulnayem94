@@ -1,3 +1,7 @@
+<div>
+  <a href="https://github.com/tarikulnayem94">
+  <img height="200em" src="https://img.shields.io/badge/-Nathalia%20Câmara-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nathalia%20Câmara-038bc1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliacâmara)
 
