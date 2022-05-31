@@ -2,10 +2,7 @@
 
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=FF1919&style=flat" alt="nayem"  height="22"/>
-<br>
-###
-  [<img src="https://img.shields.io/badge/Tarikul пαуєм-2E8B57?style=for-the-badge&logo=Github&logoColor=000000&labelColor=E6E6FA">](https://tarikulnayem94.github.io/) 
- 
+
 <p align="left"><h2>нєу thєrє, Ī´𝐦 Tarikul Islam 'пαуєм' &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="50"/>&nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2> 
 
 </p>
