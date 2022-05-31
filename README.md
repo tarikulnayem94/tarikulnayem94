@@ -1,5 +1,5 @@
 <div>
-[![Linkedin Badge](https://img.shields.io/badge/-Nathalia%20Câmara-038bc1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliacâmara)<img src="https://raw.githubusercontent.com/nathaliacamara/nathaliacamara/main/workflows/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+[![Linkedin Badge](https://img.shields.io/badge/-Nathalia%20Câmara-038bc1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliacâmara)
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=FF1919&style=flat" alt="nayem"  height="22"/>
 </div>
