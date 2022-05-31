@@ -61,8 +61,6 @@ You can click the Preview link to take a look at your changes.  ПΛYΣM
 </p>
 <hr>
  
- **Visitors Count:**
-![VisitorCount](https://profile-counter.glitch.me/{tarikulnayem94}/count.svg)
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/faruk9984/faruk9984/blob/main/marquee.svg"/> 
  
  
