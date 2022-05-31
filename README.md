@@ -20,7 +20,11 @@
 <h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">  📞 </g-emoji>Contact with мє: +8801712575851 </h3> 
 </p>&nbsp<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tarikulnayem94&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en" alt="tarikulnayem94" />           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikulnayem94&layout=compact)](https://github.com/tarikulnayem94/github-readme-stats)
+<div>
+  <a href="https://github.com/tarikulnayem94">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarikulnayem94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikulnayem94&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
 
 <hr>
