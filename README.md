@@ -1,8 +1,8 @@
 <div>
 <a href="https://github.com/tarikulnayem94">
-<img height="30em" src="https://img.shields.io/badge/-Nathalia%20Câmara-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<img height="30em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     
-<img height="20em" align="right" src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=FF1919&style=flat" alt="nayem"  height="22"/>
+<img height="20em" align="right" src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=FF1919&style=flat" alt="nayem"  height="26"/>
 </div>    
 
 <br>
