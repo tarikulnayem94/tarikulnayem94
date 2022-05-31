@@ -23,10 +23,7 @@
 <br> -->
 
 
-![Rakib's github stats](https://github-readme-stats.vercel.app/api?username=tarikulnayem94&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikulnayem94&layout=compact)](https://github.com/tarikulnayem94/github-readme-stats)
+![Rakib's github stats](https://github-readme-stats.vercel.app/api?username=tarikulnayem94&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikulnayem94&layout=compact)](https://github.com/tarikulnayem94/github-readme-stats)
  
 <h3 align="left"><b>𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 :</h3>
 <p>
