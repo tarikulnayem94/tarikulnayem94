@@ -1,6 +1,6 @@
 <div>
 <a href="https://www.linkedin.com/in/nayem94/">
-<img height="30em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<img height="30em" src="https://img.shields.io/badge/-𝕋𝕒𝕣𝕚𝕜𝕦𝕝 ℕ𝕒𝕪𝕖𝕞-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     
 <img height="24em" align="right" src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=FF1919&style=flat" alt="nayem"  height="30"/>
 </div>    
