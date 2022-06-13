@@ -9,7 +9,7 @@
 <img height="24em" align="LEFT" 
     src="https://img.shields.io/github/followers/tarikulnayem94?label=Follow" alt="nayemnayem"  height="30"/>
 <img height="24em" align="LEFT" 
-   src="https://img.shields.io/github/stars/tarikulnayem94?affiliations=OWNER%2CCOLLABORATOR" alt="nayem"  height="30"/>
+   src="https://img.shields.io/github/stars/tarikulnayem94?style=for-the-badge&logo=appveyor" alt="nayem"  height="30"/>
 </div>  
 
 
