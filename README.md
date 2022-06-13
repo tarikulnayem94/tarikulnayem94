@@ -6,10 +6,10 @@
      src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=FF1919&style=flat" alt="nayem"  height="30"/>
 </div>    
 <div>  
-<img height="24em" align="LEFT" 
-    src="https://img.shields.io/github/followers/tarikulnayem94?label=Follow&color=FF1919&style=flat" alt="nayem"  height="30"/>
-<img height="24em" align="LEFT" 
-   src="https://img.shields.io/github/stars/tarikulnayem94?style=for-the-badge&logo=appveyor" alt="nayem"  height="30"/>
+<img height="22em" align="LEFT" 
+    src="https://img.shields.io/github/followers/tarikulnayem94?label=Follow&color=#32cd32&style=flat" alt="nayem"  height="30"/>
+<img height="22em" align="LEFT" 
+   src="https://img.shields.io/github/stars/tarikulnayem94?&color=#ff33ccstyle=for-the-badge&logo=appveyor" alt="nayem"  height="30"/>
 </div>  
 
 
