@@ -6,7 +6,7 @@
      src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20views&color=FF1919&style=flat" alt="nayem"  height="30"/>
 </div>    
 
-<img height="24em" align="right" 
+<img height="24em" align="LEFT" 
     src="https://img.shields.io/github/followers/tarikulnayem94?label=Follow" alt="nayemnayem"  height="30"/>
 </div>  
 
