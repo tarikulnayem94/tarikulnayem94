@@ -2,8 +2,7 @@
 <a href="https://www.linkedin.com/in/nayem94/">
 <img height="28em" src="https://img.shields.io/badge/-𝐓arikul 𝐍ayem-038bc1?style=flat-square&logo=Linkedin&logoColor=pink"/></a>
 
-<div id="badges"  align="center">      
-![](https://komarev.com/ghpvc/?username=tarikulnayem94)
+<div id="badges"  align="RIGHT">      
     <img  src="https://img.shields.io/github/followers/tarikulnayem94?label=Follow" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/github/stars/tarikulnayem94?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
 </div>
