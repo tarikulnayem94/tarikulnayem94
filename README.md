@@ -7,8 +7,7 @@
 </div>    
 
 <img height="24em" align="right" 
-    src="https://img.shields.io/github/followers/tarikulnayem94?label=Follow" alt="nayemnayem"  height="30"
-    src="https://img.shields.io/github/stars/tarikulnayem94?affiliations=OWNER%2CCOLLABORATOR" alt="nayem"  height="30"/>
+    src="https://img.shields.io/github/followers/tarikulnayem94?label=Follow" alt="nayemnayem"  height="30"/>
 </div>  
 
 <br>
