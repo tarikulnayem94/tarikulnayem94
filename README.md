@@ -8,7 +8,7 @@
 <div>  
 <img height="22em" align="LEFT" 
     src="https://img.shields.io/github/followers/tarikulnayem94?label=Follow&color=ff1493&style=flat" alt="nayem"  height="30"/>
-<img height="22em" align="LEFT" 
+<img height="22em" align="RIGHT" 
    src="https://img.shields.io/github/stars/tarikulnayem94?style=for-the-badge&logo=appveyor" alt="nayem"  height="30"/>
 </div>  
 
