@@ -7,7 +7,7 @@
    src="https://img.shields.io/github/stars/tarikulnayem94?label=Stars&color=8B8000&style=flat" alt="nayem"  height="30"/>
      
 <a href="https://www.linkedin.com/in/nayem94/">
-<img height="26em" src="https://img.shields.io/badge/-𝐓arikul 𝐍ayem-038bc1?style=flat-square&logo=Linkedin&logoColor=pink"/>
+<img height="26em" src="https://img.shields.io/badge/-𝗧𝗮𝗿𝗶𝗸𝘂𝗹 𝗡𝗮𝘆𝗲𝗺-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
 </div>  
 
 
