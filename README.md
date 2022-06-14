@@ -1,6 +1,6 @@
 <div>
 <img height="22em" align="right" 
-     src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=░ Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
+     src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=░  Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
 <img height="22em" align="RIGHT" 
     src="https://img.shields.io/github/followers/tarikulnayem94?label=🎀 Follows&color=008000&style=flat" alt="nayem"  height="30"/>
 <img height="22em" align="RIGHT" 
