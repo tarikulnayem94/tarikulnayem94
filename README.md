@@ -2,9 +2,9 @@
 <img height="22em" align="right" 
      src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
 <img height="22em" align="RIGHT" 
-    src="https://img.shields.io/github/followers/tarikulnayem94?label=Follows&color=FFFF00&style=flat" alt="nayem"  height="30"/>
+    src="https://img.shields.io/github/followers/tarikulnayem94?label=Follows&color=FFC000&style=flat" alt="nayem"  height="30"/>
 <img height="22em" align="RIGHT" 
-   src="https://img.shields.io/github/stars/tarikulnayem94?label=Follows&color=00FF00&style=flat" alt="nayem"  height="30"/>
+   src="https://img.shields.io/github/stars/tarikulnayem94?label=Follows&color=097969&style=flat" alt="nayem"  height="30"/>
      
 <a href="https://www.linkedin.com/in/nayem94/">
 <img height="26em" src="https://img.shields.io/badge/-𝐓arikul 𝐍ayem-038bc1?style=flat-square&logo=Linkedin&logoColor=pink"/>
