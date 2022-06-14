@@ -1,13 +1,13 @@
 <div>
 <img height="22em" align="right" 
-     src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=▒ Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
+     src="https://komarev.com/ghpvc/?username=tarikulnayem94&label=░ Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
 <img height="22em" align="RIGHT" 
     src="https://img.shields.io/github/followers/tarikulnayem94?label=🎀 Follows&color=008000&style=flat" alt="nayem"  height="30"/>
 <img height="22em" align="RIGHT" 
    src="https://img.shields.io/github/stars/tarikulnayem94?label=✶ Stars&color=8B8000&style=flat" alt="nayem"  height="30"/>
      
 <a href="https://www.linkedin.com/in/nayem94/">
-<img height="26em" src="https://img.shields.io/badge/-𝐓𝐚𝐫𝐢𝐤𝐮𝐥 𝐍𝐚𝐲𝐞𝐦-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
+<img height="26em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
 </div>  
 
 
