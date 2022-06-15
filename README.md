@@ -4,7 +4,7 @@
 <img height="22em" align="RIGHT" 
     src="https://img.shields.io/github/followers/tarikulnayem94?label= 🎀 Followers&color=008000&style=flat" alt="nayem"  height="30"/>
 <img height="22em" align="RIGHT" 
-   src="https://img.shields.io/github/stars/tarikulnayem94?label= ✶ Stars&color=ffcd3c&style=flat" alt="nayem"  height="30"/>
+   src="https://img.shields.io/github/stars/tarikulnayem94?label= ✶ Stars&color=ffa371&style=flat" alt="nayem"  height="30"/>
      
 <a href="https://www.linkedin.com/in/nayem94/">
 <img height="26em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
