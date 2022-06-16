@@ -60,6 +60,16 @@
 <a href="https://www.postman.com/nayem94/workspace/nayem-postman/overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="33" height="33"/> </a>  &nbsp &nbsp &nbsp
 <a href="https://www.katalon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg" alt="katalon_studio" width="50" height="33"/></a> &nbsp  &nbsp
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="33" height="33" /> </a>  &nbsp &nbsp
+     
+#### Top Repositories
+
+<a href="https://github.com/tarikulnayem94/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikulnayem94&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/tarikulnayem94/tarikulnayem94.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/username=tarikulnayem94&repo=tarikulnayem94.github.io&theme=buefy" />
+</a>   
+     
 <!-- </p>
 <hr>
 <img align="left" target="_blank" alt="_nayem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="260"/>
