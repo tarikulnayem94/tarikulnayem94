@@ -7,7 +7,7 @@
    src="https://img.shields.io/github/stars/tarikulnayem94?label= ✶ Stars&color=ffa371&style=flat" alt="nayem"  height="30"/>
      
      
-<a href="https://www.java.com/en/" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/java/java-ar21.svg](https://github.com/tarikulnayem94/Files_and_Data/blob/main/7f113bba-8436-47a5-9982-af0bc4c02a8e.png)" alt="Java" width="35" height="24"/>
+<a href="https://www.java.com/en/" target="_blank"> <img src="(https://github.com/tarikulnayem94/Files_and_Data/blob/main/7f113bba-8436-47a5-9982-af0bc4c02a8e.png)" alt="Java" width="35" height="24"/>
      
 <a href="https://www.linkedin.com/in/nayem94/">
 <img height="26em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
