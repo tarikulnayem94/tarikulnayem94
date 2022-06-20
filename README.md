@@ -6,8 +6,7 @@
 <img height="22em" align="RIGHT" 
    src="https://img.shields.io/github/stars/tarikulnayem94?label= ✶ Stars&color=ffa371&style=flat" alt="nayem"  height="30"/>
      
-     
-<a href="https://www.linkedin.com/in/nayem94/"> <img height="26em" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg"/>
+
      
      
 <a href="https://www.linkedin.com/in/nayem94/">
