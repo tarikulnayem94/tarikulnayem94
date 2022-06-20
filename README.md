@@ -7,13 +7,15 @@
    src="https://img.shields.io/github/stars/tarikulnayem94?label= ✶ Stars&color=ffa371&style=flat" alt="nayem"  height="30"/>
      
      
-<a href="https://www.java.com/en/" target="_blank"> <img src="(https://github.com/tarikulnayem94/Files_and_Data/blob/main/7f113bba-8436-47a5-9982-af0bc4c02a8e.png)" alt="Java" width="35" height="24"/>
+<a href="https://www.java.com/en/" target="_blank"> <img src="[(https://github.com/tarikulnayem94/Files_and_Data/blob/main/7f113bba-8436-47a5-9982-af0bc4c02a8e.png)](https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg)" alt="Java" width="35" height="24"/>
+     
      
 <a href="https://www.linkedin.com/in/nayem94/">
 <img height="26em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
 </div>  </a> &nbsp
 
 
+     
 <br>
 <p align="left"><h2>нєу thєrє, Ī´𝐦 Tarikul Islam 'пαуєм' &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="50"/>&nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2> 
 
