@@ -1,3 +1,34 @@
+<table>
+  <tr>
+    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
+    <td>
+      <ul>
+        <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>
+        <li>I’m a <em>Software Engineer II, QA</em> at <a href="https://therapbd.com/">Therap (BD) Ltd.</a> and a <em>Freelance Technical Writer</em> at  <a href="https://draft.dev/">Draft.dev</a></li>
+        <li>I have a <a href="https://tahanima.github.io/">personal blog</a> where you can find a lot of recruitment-related content in the context of Bangladesh.</li>
+        <li>I enjoy contributing to open source projects and currently, I am contributing to <em><a href="https://github.com/datafaker-net/datafaker">datafaker</a></em>.
+      </ul>
+      <h4>Connect with me:</h4>
+      <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
+      <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
+      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/dusk/40/000000/twitter-circled.png"/></a>
+      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <p><i>
+𝗜’𝗺 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝔸 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ͏l͏i͏v͏i͏n͏g ͏i͏n 𝕯𝖍𝖆𝖐𝖆, 𝕭𝖆𝖓𝖌𝖑𝖆𝖉𝖊𝖘𝖍. ͏I ͏s͏p͏e͏n͏d ͏m͏y ͏d͏a͏y͏s ͏w͏i͏t͏h ͏s͏i͏g͏n͏i͏f͏i͏c͏a͏n͏t ͏h͏a͏n͏d͏s-͏o͏n ͏t͏e͏c͏h͏n͏i͏c͏a͏l ͏e͏x͏p͏e͏r͏i͏e͏n͏c͏e ͏i͏n ͏t͏h͏e ͏f͏a͏s͏t ͏p͏a͏c͏e͏d. ͏I ͏h͏a͏v͏e ͏e͏x͏p͏e͏r͏i͏e͏n͏c͏e ͏w͏i͏t͏h 𝗠𝗮𝗻𝘂𝗮𝗹𝗧𝗲𝘀𝘁𝗶𝗻𝗴, 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 & ͏a͏l͏s͏o ͏h͏a͏v͏e ͏g͏o͏o͏d ͏k͏n͏o͏w͏l͏a͏d͏g͏e ͏o͏f 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 ͏t͏o͏o͏l͏s ͏l͏i͏k͏e 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗱𝗿𝗶𝘃𝗲𝗿 ͏w͏i͏t͏h 𝗧𝗲𝘀𝘁𝗡𝗚 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸, & 𝗔𝗣𝗜 𝘁𝗲𝘀𝘁𝗶𝗻𝗴 ͏u͏s͏i͏n͏g 𝗣𝗼𝘀𝘁𝗺𝗮𝗻, 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 ͏u͏s͏i͏n͏g 𝗝𝗠𝗲𝘁𝗲𝗿, Mobile Application testing using 𝔸𝕡𝕡𝕚𝕦𝕞. ͏Kn͏o͏w͏l͏a͏d͏g͏e ͏i͏n ͏d͏i͏f͏f͏e͏r͏e͏n͏t ͏t͏y͏p͏e͏s ͏o͏f ͏t͏e͏s͏t͏i͏n͏g ͏s͏u͏c͏h ͏a͏s: 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹, 𝗨𝘀𝗲𝗿 𝗔𝗰𝗰𝗲𝗽𝘁𝗮𝗻𝗰𝗲, 𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻, 𝗦𝗺𝗼𝗸𝗲, 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲, 𝗨𝘀𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗩𝗲𝗿𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻, 𝗟𝗼𝗮𝗱, 𝗦𝘁𝗿𝗲𝘀𝘀 & 𝗨𝗜 𝗧𝗲𝘀𝘁𝗶𝗻𝗴. ͏𝗘𝘅͏𝘁͏𝗿͏𝗲͏𝗺͏𝗲͏𝗹͏𝘆 ͏𝘁͏𝗲͏𝗰͏𝗵-͏𝘀͏𝗮͏𝘃͏𝘃͏𝘆 ͏𝘄͏𝗶͏𝘁͏𝗵 ͏𝘁͏𝗵͏𝗲 ͏𝗮͏𝗯͏𝗶͏𝗹͏𝗶͏𝘁͏𝘆 ͏𝘁͏𝗼 ͏𝗹͏𝗲͏𝗮͏𝗿͏𝗻 ͏𝗻͏𝗲͏𝘄 ͏𝘁͏𝗲͏𝗰͏𝗵͏𝗻͏𝗼͏𝗹͏𝗼͏𝗴͏𝘆 ͏𝗾͏𝘂͏𝗶͏𝗰͏𝗸͏𝗹͏𝘆 & ͏𝗰͏𝗼͏𝗽͏𝗲 ͏𝘄͏𝗶͏𝘁͏𝗵 ͏𝗻͏𝘂͏𝗺͏𝗲͏𝗿͏𝗼͏𝘂͏𝘀 ͏𝗰͏𝗵͏𝗮͏𝗻͏𝗴͏𝗲͏𝘀.🎓 𝗜 𝗮𝗺 𝕊𝕥𝕦𝕕𝕚𝕖𝕕 𝕒𝕥 <a href="https://www.ewubd.edu/" target="_blank"> &nbsp 🅴🅰🆂🆃 &nbsp 🆆🅴🆂🆃 &nbsp 🆄🅽🅸🆅🅴🆁🆂🅸🆃🆈
+      </i></p>
+      
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 <div>
 <img height="22em" align="right" 
      src="https://komarev.com/ghpvc/?username=tarikulnayem94&label= ░  Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
