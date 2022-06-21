@@ -32,7 +32,7 @@
 </table> 
 
 </div>
-<h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png"> ``` 📞 </g-emoji>Contact with мє: +8801712575851 ```</h3> 
+<h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png"> 📞 </g-emoji>Contact with мє: +8801712575851 </h3> 
 </p>&nbsp<br>
 
 <div>
@@ -82,6 +82,8 @@ You can click the Preview link to take a look at your changes.  ПΛYΣM
 &nbsp
 </p>
 <hr>
- 
+<table><td><p>
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/tarikulnayem94/tarikulnayem94/blob/main/marquee.svg"/> 
- 
+</p></td></table> 
+     
+     
