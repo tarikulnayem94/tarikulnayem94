@@ -41,10 +41,10 @@
 </table> 
 
 </div>
-<table><td><p>
+<table><td>
 <h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">  📞 </g-emoji>Contact with мє: +8801712575851 </h3> 
 </p>&nbsp<br>
-</p></td></table> 
+</td></table> 
 
 <div>
   <a href="https://github.com/tarikulnayem94">
