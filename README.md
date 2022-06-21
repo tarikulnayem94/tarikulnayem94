@@ -1,9 +1,6 @@
-
-
-
-
-
-
+<table>
+<td>
+<p>
 <div>
 <img height="22em" align="right" 
      src="https://komarev.com/ghpvc/?username=tarikulnayem94&label= ░  Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
@@ -11,14 +8,13 @@
     src="https://img.shields.io/github/followers/tarikulnayem94?label= 🎀 Followers&color=008000&style=flat" alt="nayem"  height="30"/>
 <img height="22em" align="RIGHT" 
    src="https://img.shields.io/github/stars/tarikulnayem94?label= ✶ Stars&color=ffa371&style=flat" alt="nayem"  height="30"/>
-     
-
-     
-     
+        
 <a href="https://www.linkedin.com/in/nayem94/">
 <img height="26em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
 </div>  </a> &nbsp
-
+</p>
+</td>
+</table> 
 
      
 <br>
@@ -41,10 +37,8 @@
 </table> 
 
 </div>
-<table><td>
 <h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">  📞 </g-emoji>Contact with мє: +8801712575851 </h3> 
 </p>&nbsp<br>
-</td></table> 
 
 <div>
   <a href="https://github.com/tarikulnayem94">
