@@ -32,7 +32,7 @@
 </table> 
 
 </div>
-<h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">  📞 </g-emoji>Contact with мє: +8801712575851 </h3> 
+<h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png"> ``` 📞 </g-emoji>Contact with мє: +8801712575851 ```</h3> 
 </p>&nbsp<br>
 
 <div>
