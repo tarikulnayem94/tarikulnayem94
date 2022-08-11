@@ -3,7 +3,7 @@
      src="https://komarev.com/ghpvc/?username=tarikulnayem94&label= ░  Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
 <!-- 
      <img height="22em" align="RIGHT" 
-    src="https://img.shields.io/github/followers/tarikulnayem94?label= 🎀 Followers&color=008000&style=flat" alt="nayem"  height="30"/>
+    src="https://img.shields.io/github/followers/tarikulnayem94?label=Followers&color=008000&style=flat" alt="nayem"  height="30"/>
 <img height="22em" align="RIGHT" 
    src="https://img.shields.io/github/stars/tarikulnayem94?label= ✶ Stars&color=ffa371&style=flat" alt="nayem"  height="30"/>
 -->
