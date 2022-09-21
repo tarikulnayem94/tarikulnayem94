@@ -67,7 +67,7 @@
 <br>
 <a href="https://github.com/tarikulnayem94/Selenium-with-Java" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="sw" width="120" height="50"/></a> &nbsp &nbsp &nbsp &nbsp &nbsp
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="jmeter" width="110" height="38"/></a> &nbsp &nbsp &nbsp &nbsp
-<a href="https://www.postman.com/nayem94/workspace/nayem-postman/overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="33" height="33"/> </a>  &nbsp &nbsp &nbsp
+<a href="https://www.postman.com/nayem94?tab=overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="33" height="33"/> </a>  &nbsp &nbsp &nbsp
 <a href="https://www.katalon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg" alt="katalon_studio" width="50" height="33"/></a> &nbsp  &nbsp
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="33" height="33" /> </a>  &nbsp &nbsp
      
