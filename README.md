@@ -1,6 +1,6 @@
 <div>
 <img height="22em" align="right" 
-     src="https://komarev.com/ghpvc/?username=tarikulnayem94&label ░  =Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
+     src="https://komarev.com/ghpvc/?username=tarikulnayem94&label ░  =Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="26"/>
 <!-- 
      <img height="22em" align="RIGHT" 
     src="https://img.shields.io/github/followers/tarikulnayem94?label=Followers&color=008000&style=flat" alt="nayem"  height="30"/>
@@ -10,7 +10,7 @@
 
 <!-- <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tarikulnayem" target="_blank">Follow on LinkedIn</a> -->
 <a href="https://www.linkedin.com/in/nayem94/">
-<img height="26em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
+<img height="22em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a> &nbsp
 </div>
 
@@ -37,7 +37,7 @@
 
      
 <br>
-<p align="left"><h2>нєу thєrє, Ī´𝐦 Tarikul Islam 'пαуєм' &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="50"/>&nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2> 
+<p align="left"><h2>нєу thєrє, Ī´𝐦 Tarikul Islam 'пαуєм' &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="40"/>&nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2> 
 
 </p>
 </p>
