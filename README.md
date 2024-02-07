@@ -56,8 +56,8 @@
 </table> 
 
 </div>
-<h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png"> 📞 </g-emoji>Contact with мє: +8801712575851 </h3> 
-</p>&nbsp<br>
+<!-- <h3 align="left" ><p style="list-style : none"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png"> 📞 </g-emoji>Contact with мє: +8801712575851 </h3> 
+</p>&nbsp<br> -->
 
 <div>
   <a href="https://github.com/tarikulnayem94">
@@ -103,7 +103,6 @@
 tarikulnayem94/tarikulnayem94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  ПΛYΣM
 --->
-&nbsp
 </p>
 <hr>
 <table><td><p>
