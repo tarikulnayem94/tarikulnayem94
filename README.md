@@ -10,11 +10,6 @@
 
 <!-- <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tarikulnayem" target="_blank">Follow on LinkedIn</a> -->
 
-     
-<div> <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nayem94/?trk=profile-badge">Tarikul Nayem</a></div>
-
-</a> &nbsp
-</div>
 
 
 <!--       <style>
