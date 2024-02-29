@@ -9,8 +9,9 @@
 -->
 
 <!-- <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tarikulnayem" target="_blank">Follow on LinkedIn</a> -->
-<a href="https://www.linkedin.com/in/nayem94/" img height="22em" src="https://img.shields.io/badge/-Tarikul Nayem-038bc1?style=flat-square&logo=Linkedin&logoColor=white"/>
+
      
+<a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nayem94/?trk=profile-badge">Tarikul Nayem</a></div>
 
 </a> &nbsp
 </div>
