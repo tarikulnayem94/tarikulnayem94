@@ -102,7 +102,7 @@ You can click the Preview link to take a look at your changes.  ПΛYΣM
 </p>
 <hr>
 <table><td><p>
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/tarikulnayem94/tarikulnayem94/blob/main/marquee.svg"/> 
+<img align='center'  height="60" alt="Thanks" width="103%" src="https://github.com/tarikulnayem94/tarikulnayem94/blob/main/marquee.svg"/> 
 </p></td></table> 
      
      
