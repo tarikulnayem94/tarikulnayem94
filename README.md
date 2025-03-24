@@ -69,7 +69,7 @@
 <a href="https://www.linkedin.com/in/nayem94" target="_blank" rel="nofollow"> <img src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://raw.githubusercontent.com/tarikulnayem94/Diagram.io/main/linkedin-logo.svg" height = "28"></a>
 <br> -->
  
-<h3 align="left"><b>𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 :</h3>
+<h3 align="left"><b> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 :</h3>
 <p>
 <br> <br> 
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="70" height="42"/> &nbsp </a>&nbsp
