@@ -36,7 +36,7 @@
 </p>
 </p>
 
-<h3> Software QA Engineer || 𝗤𝗔 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 </h3> 
+<h3> Software QA Engineer || QA Automation Engineer </h3> 
 
 <hr> 
 <div><p>
