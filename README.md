@@ -107,6 +107,6 @@ You can click the Preview link to take a look at your changes.  ПΛYΣM
 </p></td></table> 
 
 <a href="[http://siamshaeed.me](https://tarikulnayem94.github.io/tarikulnayem.info/)">
-<img align="right" target="_blank" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="500" height="280"/> 
+<img align="centre" target="_blank" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="500" height="320"/> 
 </a>
      
