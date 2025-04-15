@@ -29,9 +29,6 @@
           font-family: "SF Pro Text", Helvetica, sans-serif;
         }
       </style> -->
-
-
-
      
 <br>
 <p align="left"><h2>нєу thєrє, Ī´𝐦 Tarikul Islam 'пαуєм' &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="40"/>&nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2> 
@@ -39,7 +36,7 @@
 </p>
 </p>
 
-<h3>Software QA Engineer</h3> 
+<h3> Software QA Engineer || 𝗤𝗔 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 </h3> 
 
 <hr> 
 <div><p>
