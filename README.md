@@ -105,5 +105,8 @@ You can click the Preview link to take a look at your changes.  ПΛYΣM
      
 <img align='center'  height="60" alt="Thanks" width="103%" src="https://github.com/tarikulnayem94/tarikulnayem94/blob/main/marquee.svg"/> 
 </p></td></table> 
-     <img align='center'  height="60" alt="Thanks" width="100%" src="[https://github.com/tarikulnayem94/tarikulnayem94/blob/main/marquee.svg](https://raw.githubusercontent.com/SiamShaeed/siamshaeed/main/image/code_siam.gif)"/> 
+
+<a href="[http://siamshaeed.me](https://tarikulnayem94.github.io/tarikulnayem.info/)">
+<img align="right" target="_blank" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="500" height="280"/> 
+</a>
      
