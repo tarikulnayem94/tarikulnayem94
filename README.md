@@ -31,7 +31,7 @@
       </style> -->
      
 <br>
-<p align="left"><h2>нєу thєrє, Ī´𝐦 Tarikul Islam 'пαуєм' &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="40"/>&nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2> 
+<p align="left"> <h2>нєу thєrє, Ī´𝐦 Tarikul Islam 'пαуєм' &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="40"/>&nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2> 
 
 </p>
 </p>
@@ -43,11 +43,13 @@
   
 <table>
 <td>
-<p>
+<p align="justify">
+
 𝗜’𝗺 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝔸 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿;  ͏l͏i͏v͏i͏n͏g ͏i͏n Dhaka, Bangladesh. ͏I bring strong hands-on technical experience in dynamic, fast-paced environments, with a solid background in both Manual and Automation Testing. I am proficient in using automation tools such as Selenium WebDriver with the TestNG Framework, Postman for API testing, JMeter for performance testing, and Appium for mobile application testing.
 
 My testing expertise spans a wide range of methodologies, including Functional, User Acceptance (UAT), Regression, Smoke, Performance, Usability, Verification, Load, Stress, and UI Testing. I am highly tech-savvy, quick to adapt to new tools and technologies, and thrive in evolving environments that require agility and continuous learning.
 </p>
+
 </td>
 </table> 
 
