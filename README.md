@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.  ПΛYΣM
 <hr>
 <table><td><p>
      
-<img align='center'  height="60" alt="Thanks"  src="https://github.com/tarikulnayem94/tarikulnayem94/blob/main/marquee.svg"/> <img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="60" height="50"/>
+<img align='center'  height="60" alt="Thanks"  src="https://github.com/tarikulnayem94/tarikulnayem94/blob/main/marquee.svg"/> <img src="https://emojis.slackmojis.com/emojis/images/1617398953/26746/hi-ya.gif?1617398953" width="60" height="70"/>
 </p></td></table> 
 <!-- 
 <a href="[http://siamshaeed.me](https://tarikulnayem94.github.io/tarikulnayem.info/)">
