@@ -87,7 +87,7 @@ My testing expertise spans a wide range of methodologies, including Functional, 
 <a href="https://www.postman.com/nayem94?tab=overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="33" height="33"/> </a>  &nbsp &nbsp &nbsp;&nbsp;&nbsp; &nbsp&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="33" height="33" /> </a>  &nbsp &nbsp &nbsp;&nbsp;&nbsp;
-     
+     </p>
 
 <!-- <a href="https://www.katalon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg" alt="katalon_studio" width="50" height="33"/></a> &nbsp  &nbsp&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 
