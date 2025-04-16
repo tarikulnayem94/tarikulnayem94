@@ -45,7 +45,7 @@
 <td>
 <p align="justify"> 𝗜’𝗺 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝔸 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿;  ͏l͏i͏v͏i͏n͏g ͏i͏n Dhaka, Bangladesh. ͏I bring strong hands-on technical experience in dynamic, fast-paced environments, with a solid background in both Manual and Automation Testing. I am proficient in using automation tools such as Selenium WebDriver with the TestNG Framework, Postman for API testing, JMeter for performance testing, and Appium for mobile application testing.
 
-My testing expertise spans a wide range of methodologies, including Functional, User Acceptance Testing, Regression, Smoke, Performance, Usability, Verification, Load, Stress, and UI Testing. I am highly tech-savvy, quick to adapt to new tools and technologies, and thrive in evolving environments that require agility and continuous learning.
+My testing expertise spans a wide range of methodologies, including Functional, User Acceptance, Regression, Smoke, Performance, Usability, Verification, Load, Stress, and UI Testing. I am highly tech-savvy, quick to adapt to new tools and technologies, and thrive in evolving environments that require agility and continuous learning.
 </p>
 
 </td>
